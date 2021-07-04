@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"elixirLS.dialyzerEnabled": false,
+		"elixirLS.suggestSpecs": false
+	}
+}
